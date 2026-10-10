@@ -241,8 +241,19 @@ representation, and similarity analysis.
 
 GitHub: https://github.com/Nabeeha-Hassan07/ScholarShield
 
-## License
+## Copyright and Ownership
 
-No license has been specified in this repository. Unless a license is
-added, reuse and redistribution are subject to the applicable copyright
-rules.
+Copyright © 2026 Nabeeha-Hassan07 . All rights reserved.
+
+ScholarShield – Context-Aware Academic Similarity Analyzer is an original academic project created by [Your Name].
+
+The original source code, documentation, interface design, and other original materials in this repository are protected by applicable copyright laws.
+
+No permission is granted to copy, redistribute, modify, republish, or reuse the project's original materials without the author's prior written permission, except where applicable law permits otherwise.
+
+Third-party libraries and dependencies remain subject to their respective licenses.
+
+## Publishing this repository on GitHub does not grant an open-source license for the project's original materials.
+
+This notice does not claim exclusive copyright over an abstract idea, general method, or concept.
+
